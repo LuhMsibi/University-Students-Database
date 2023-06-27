@@ -1,0 +1,79 @@
+C:\Users\user\Desktop\University student\University student\bin\Debug\University student.exe.config
+C:\Users\user\Desktop\University student\University student\bin\Debug\University student.exe
+C:\Users\user\Desktop\University student\University student\bin\Debug\University student.pdb
+C:\Users\user\Desktop\University student\University student\obj\Debug\University student.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\University student\University student\obj\Debug\University student.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\University student\University student\obj\Debug\University_student.Login.resources
+C:\Users\user\Desktop\University student\University student\obj\Debug\University_student.Properties.Resources.resources
+C:\Users\user\Desktop\University student\University student\obj\Debug\University_student.Register.resources
+C:\Users\user\Desktop\University student\University student\obj\Debug\University student.csproj.GenerateResource.cache
+C:\Users\user\Desktop\University student\University student\obj\Debug\University student.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\University student\University student\obj\Debug\University student.exe
+C:\Users\user\Desktop\University student\University student\obj\Debug\University student.pdb
+C:\Users\user\Desktop\University student\University student\obj\Debug\University_student.MainMenu.resources
+C:\Users\user\Desktop\University student\University student\obj\Debug\University_student.Admin.resources
+C:\Users\user\Desktop\University student\University student\obj\Debug\University_student.Report.resources
+C:\Users\user\Desktop\Test Feature\University student\bin\Debug\University student.exe.config
+C:\Users\user\Desktop\Test Feature\University student\bin\Debug\University student.exe
+C:\Users\user\Desktop\Test Feature\University student\bin\Debug\University student.pdb
+C:\Users\user\Desktop\Test Feature\University student\obj\Debug\University student.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Test Feature\University student\obj\Debug\University student.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Test Feature\University student\obj\Debug\University_student.Login.resources
+C:\Users\user\Desktop\Test Feature\University student\obj\Debug\University_student.MainMenu.resources
+C:\Users\user\Desktop\Test Feature\University student\obj\Debug\University_student.Admin.resources
+C:\Users\user\Desktop\Test Feature\University student\obj\Debug\University_student.Properties.Resources.resources
+C:\Users\user\Desktop\Test Feature\University student\obj\Debug\University_student.Register.resources
+C:\Users\user\Desktop\Test Feature\University student\obj\Debug\University_student.Report.resources
+C:\Users\user\Desktop\Test Feature\University student\obj\Debug\University student.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Test Feature\University student\obj\Debug\University student.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Test Feature\University student\obj\Debug\University student.exe
+C:\Users\user\Desktop\Test Feature\University student\obj\Debug\University student.pdb
+C:\Users\user\Desktop\CODING 2023\Test Feature\University student\bin\Debug\University student.exe.config
+C:\Users\user\Desktop\CODING 2023\Test Feature\University student\bin\Debug\University student.exe
+C:\Users\user\Desktop\CODING 2023\Test Feature\University student\bin\Debug\University student.pdb
+C:\Users\user\Desktop\CODING 2023\Test Feature\University student\obj\Debug\University student.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CODING 2023\Test Feature\University student\obj\Debug\University student.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\CODING 2023\Test Feature\University student\obj\Debug\University_student.Login.resources
+C:\Users\user\Desktop\CODING 2023\Test Feature\University student\obj\Debug\University_student.MainMenu.resources
+C:\Users\user\Desktop\CODING 2023\Test Feature\University student\obj\Debug\University_student.Admin.resources
+C:\Users\user\Desktop\CODING 2023\Test Feature\University student\obj\Debug\University_student.Properties.Resources.resources
+C:\Users\user\Desktop\CODING 2023\Test Feature\University student\obj\Debug\University_student.Register.resources
+C:\Users\user\Desktop\CODING 2023\Test Feature\University student\obj\Debug\University_student.Report.resources
+C:\Users\user\Desktop\CODING 2023\Test Feature\University student\obj\Debug\University student.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CODING 2023\Test Feature\University student\obj\Debug\University student.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CODING 2023\Test Feature\University student\obj\Debug\University student.exe
+C:\Users\user\Desktop\CODING 2023\Test Feature\University student\obj\Debug\University student.pdb
+C:\Users\user\Desktop\CODING 2023\Test Feature\University student\obj\Debug\University_student.MM.resources
+C:\Users\user\Downloads\Test Feature\University student\bin\Debug\University student.exe.config
+C:\Users\user\Downloads\Test Feature\University student\bin\Debug\University student.exe
+C:\Users\user\Downloads\Test Feature\University student\bin\Debug\University student.pdb
+C:\Users\user\Downloads\Test Feature\University student\obj\Debug\University student.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Test Feature\University student\obj\Debug\University_student.Login.resources
+C:\Users\user\Downloads\Test Feature\University student\obj\Debug\University_student.MainMenu.resources
+C:\Users\user\Downloads\Test Feature\University student\obj\Debug\University_student.Admin.resources
+C:\Users\user\Downloads\Test Feature\University student\obj\Debug\University_student.MM.resources
+C:\Users\user\Downloads\Test Feature\University student\obj\Debug\University_student.Properties.Resources.resources
+C:\Users\user\Downloads\Test Feature\University student\obj\Debug\University_student.Register.resources
+C:\Users\user\Downloads\Test Feature\University student\obj\Debug\University_student.Report.resources
+C:\Users\user\Downloads\Test Feature\University student\obj\Debug\University student.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Test Feature\University student\obj\Debug\University student.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Test Feature\University student\obj\Debug\University student.exe
+C:\Users\user\Downloads\Test Feature\University student\obj\Debug\University student.pdb
+C:\Users\user\Downloads\Test Feature\University student\bin\Debug\University student.xml
+C:\Users\user\Desktop\CODING 2023\GROUP 6 PROJECT\University Student GUI\University student\bin\Debug\University student.exe.config
+C:\Users\user\Desktop\CODING 2023\GROUP 6 PROJECT\University Student GUI\University student\bin\Debug\University student.xml
+C:\Users\user\Desktop\CODING 2023\GROUP 6 PROJECT\University Student GUI\University student\bin\Debug\University student.exe
+C:\Users\user\Desktop\CODING 2023\GROUP 6 PROJECT\University Student GUI\University student\bin\Debug\University student.pdb
+C:\Users\user\Desktop\CODING 2023\GROUP 6 PROJECT\University Student GUI\University student\obj\Debug\University student.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CODING 2023\GROUP 6 PROJECT\University Student GUI\University student\obj\Debug\University student.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\CODING 2023\GROUP 6 PROJECT\University Student GUI\University student\obj\Debug\University_student.Login.resources
+C:\Users\user\Desktop\CODING 2023\GROUP 6 PROJECT\University Student GUI\University student\obj\Debug\University_student.MainMenu.resources
+C:\Users\user\Desktop\CODING 2023\GROUP 6 PROJECT\University Student GUI\University student\obj\Debug\University_student.Admin.resources
+C:\Users\user\Desktop\CODING 2023\GROUP 6 PROJECT\University Student GUI\University student\obj\Debug\University_student.MM.resources
+C:\Users\user\Desktop\CODING 2023\GROUP 6 PROJECT\University Student GUI\University student\obj\Debug\University_student.Properties.Resources.resources
+C:\Users\user\Desktop\CODING 2023\GROUP 6 PROJECT\University Student GUI\University student\obj\Debug\University_student.Register.resources
+C:\Users\user\Desktop\CODING 2023\GROUP 6 PROJECT\University Student GUI\University student\obj\Debug\University_student.Report.resources
+C:\Users\user\Desktop\CODING 2023\GROUP 6 PROJECT\University Student GUI\University student\obj\Debug\University student.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CODING 2023\GROUP 6 PROJECT\University Student GUI\University student\obj\Debug\University student.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CODING 2023\GROUP 6 PROJECT\University Student GUI\University student\obj\Debug\University student.exe
+C:\Users\user\Desktop\CODING 2023\GROUP 6 PROJECT\University Student GUI\University student\obj\Debug\University student.pdb
